@@ -12,11 +12,17 @@ This project is a web application that predicts customer churn using a pre-train
 ## Requirements
 
 - Python 3.6+
-- Streamlit
+- Jupyter Notebook
+- streamlit
 - scikit-learn
 - pandas
-- pickle
-- Jupyter Notebook
+- numpy
+- matplotlib
+- plotly
+- xgboost
+- lightgbm
+- catboost
+
 
 ## Installation
 
